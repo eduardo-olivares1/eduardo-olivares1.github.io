@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Eduardo Olivares
-  email: example@domain.com # change to your email address
+  email: #example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/eduardo-olivares1 # change to your github homepage
@@ -49,7 +49,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-S5HV9F3KDF
 
 # Prefer color scheme setting.
 #
